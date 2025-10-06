@@ -11,6 +11,7 @@ Understand factors influencing:
 Booking cancellations
 Seasonal demand
 Pricing variations -Customer booking behavior
+
 📊Dataset The dataset contains Airbnb booking details with features like:
 
 Hotel type
@@ -35,6 +36,7 @@ Pricing variations by hotel type
 Visualization
 Matplotlib & Seaborn → static statistical plots
 Plotly Express → interactive charts for deeper insights
+
 🛠️ Tech Stack
 
 Programming Language: Python
@@ -45,6 +47,7 @@ matplotlib → visualization
 seaborn → statistical plots
 plotly.express → interactive visualizations
 Environment: Jupyter Notebook
+
 📈 Results & Insights
 
 Seasonal patterns strongly affect booking demand.
